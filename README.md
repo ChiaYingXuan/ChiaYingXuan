@@ -18,7 +18,7 @@ As a dedicated computer science undergraduate, I am eager to apply my academic b
 
 ## Projects
 
-#### 🖼️ [Image Processing Application](https://github.com/ChiaYingXuan)
+#### 🖼️ [Image Processing Application](https://chiayingxuan.github.io/Image-Processing-Application/)
 * Developed an image processing application that allows users to apply grayscale conversion and colour channel thresholding (red, green, blue) to images, providing real-time visual effects and analysis.
 * Integrated live camera functionality with face detection, enabling users to equip filters such as virtual crowns.
 
