@@ -26,13 +26,22 @@ As a dedicated computer science undergraduate, I am eager to apply my academic b
 * Developed an NLP pipeline for sentiment classification, including data cleaning (tokenization, stopword removal) and data preprocessing (mapping sentiment labels to numerical values), followed by training multiple model architectures (regularized, deeper, and wider networks).
 * Evaluated model performance using training/validation loss and metrics such as Precision, Recall, and F1-score, identifying that the regularized model achieved the best generalization with the lowest test loss, while increased depth or width provided limited performance gains.
 
-#### 📧 [NLP - Comparative text classification on spam dataset](https://github.com/ChiaYingXuan/Comparative-text-classification-using-statistical-and-embedding-based-models/blob/main/NLP_Midterms_SpamDetection_ChiaYingXuan.pdf)
+#### 📧 [SMS Spam Detection](https://github.com/ChiaYingXuan/Comparative-text-classification-using-statistical-and-embedding-based-models/blob/main/NLP_Midterms_SpamDetection_ChiaYingXuan.pdf)
 * Conducted a comparative text classification on the SMS Spam dataset using traditional machine learning (SVM) and deep learning models (LSTM).
 * Evaluated performance using accuracy, precision, and recall, identifying SVM as the optimal model due to higher precision and lower false-positive rate compared to LSTM.
 
 #### ✍️ [Blogging Tool](https://github.com/ChiaYingXuan)
 * Developed a blogging tool using Node.js and Express.js, which a user can deploy on their own server, with features such as article writing, publishing for authors, and article browsing, commenting and liking for readers. 
 * Implemented dynamic server-side rendering using Embedded JavaScript Templates (EJS) to deliver client side pages, and data querying with SQLite3.
+
+---
+
+## Goals
+
+* **Learn game development:** Begin exploring Unity and other game development frameworks to build interactive games in the future.
+* **Stay technically relevant:** Pursue certifications in AI, ML, and software development to keep up with industry trends.
+* **Enhance problem solving skills:** Solve coding challenges regularly on platforms like LeetCode to strengthen knowledge.
+* **Build portfolio projects:** Develop full-stack applications, AI/ML projects, and creative tools to demonstrate practical skills.
 
 ---
 
@@ -44,7 +53,6 @@ As a dedicated computer science undergraduate, I am eager to apply my academic b
 **2019 - 2022 |  Nanyang Polytechnic**
 
   Diploma in Pharmaceutical Sciences
-
 
 ---
 
