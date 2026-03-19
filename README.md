@@ -18,21 +18,25 @@ As a dedicated computer science undergraduate, I am eager to apply my academic b
 
 ## Projects
 
-#### 🖼️ [Image Processing Application](https://chiayingxuan.github.io/Image-Processing-Application/)
+### 🖼️ [Image Processing Application](https://chiayingxuan.github.io/Image-Processing-Application/)
 * Developed an image processing application that allows users to apply grayscale conversion and colour channel thresholding (red, green, blue) to images, providing real-time visual effects and analysis.
 * Integrated live camera functionality with face detection, enabling users to equip filters such as virtual crowns.
 
-#### 📊 [Sentiment Analysis of ChatGPT-related Tweets](https://github.com/ChiaYingXuan/Sentiment-Analysis-of-ChatGPT-related-Tweets/blob/main/MLNN_Finals.pdf)
+### 📊 [Sentiment Analysis of ChatGPT-related Tweets](https://github.com/ChiaYingXuan/Sentiment-Analysis-of-ChatGPT-related-Tweets/blob/main/MLNN_Finals.pdf)
 * Developed an NLP pipeline for sentiment classification, including data cleaning (tokenization, stopword removal) and data preprocessing (mapping sentiment labels to numerical values), followed by training multiple model architectures (regularized, deeper, and wider networks).
 * Evaluated model performance using training/validation loss and metrics such as Precision, Recall, and F1-score, identifying that the regularized model achieved the best generalization with the lowest test loss, while increased depth or width provided limited performance gains.
 
-#### 📧 [SMS Spam Detection](https://github.com/ChiaYingXuan/Comparative-text-classification-using-statistical-and-embedding-based-models/blob/main/NLP_Midterms_SpamDetection_ChiaYingXuan.pdf)
+### 📧 [SMS Spam Detection](https://github.com/ChiaYingXuan/Comparative-text-classification-using-statistical-and-embedding-based-models/blob/main/NLP_Midterms_SpamDetection_ChiaYingXuan.pdf)
 * Conducted a comparative text classification on the SMS Spam dataset using traditional machine learning (SVM) and deep learning models (LSTM).
 * Evaluated performance using accuracy, precision, and recall, identifying SVM as the optimal model due to higher precision and lower false-positive rate compared to LSTM.
 
-#### ✍️ [Blogging Tool](https://github.com/ChiaYingXuan)
+### ✍️ [Blogging Tool](https://github.com/ChiaYingXuan/Blogging-Tool/tree/main)
 * Developed a blogging tool using Node.js and Express.js, which a user can deploy on their own server, with features such as article writing, publishing for authors, and article browsing, commenting and liking for readers. 
 * Implemented dynamic server-side rendering using Embedded JavaScript Templates (EJS) to deliver client side pages, and data querying with SQLite3.
+
+### 🎮 [Platform Game](https://chiayingxuan.github.io/Platform-Game/)
+
+### 🎼 [Music Visualization Application](https://chiayingxuan.github.io/Music-Visualization-Application/)
 
 ---
 
